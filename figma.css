@@ -98,7 +98,7 @@
 
 }
 .men .ice img{
-    margin-left: 80%;
+    margin-left: 40%;
     position: absolute;
 }
 .men{
@@ -106,20 +106,20 @@
     grid-template-columns: 1fr 1fr;
 }
 .men .titik3 .titik2{
-    margin-top: 100%;
-    
+    margin-top: 100px;
+    margin-left: 80px;
 }
 
 .men .titik3{
     
     margin-top: -63%;
-    margin-left: 115%;
+    margin-left: 100%;
     position: relative;
     z-index: -99;
 }
 .men .titik3 .titik4{
     margin-top: 210px;
-    margin-left: -210px;
+    margin-left: 78px;
 }
 .main .kotak1 button:hover{
     background-color: rgb(112, 80, 9);
